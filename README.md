@@ -1,0 +1,1 @@
+This repository contains code to reproduce results in the blogpost "Reinforcement Learning for Budget Constrained Recommendations". It also includes pre-generated results that were used to produce plots in the blogpost
